@@ -1,0 +1,7 @@
+Credentials cache: API:946132CD-F7B7-4024-963D-86DE3751A2E6
+        Principal: macikgoz@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  2 09:57:29 2021  Sep  2 19:57:29 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Sep  2 09:57:30 2021  Sep  2 19:57:29 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
+macikgoz@C02F63KUPN5T ex03 %
